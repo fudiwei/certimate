@@ -110,6 +110,13 @@ type AccessConfigForGoDaddy struct {
 	ApiSecret string `json:"apiSecret"`
 }
 
+type AccessConfigForGoEdge struct {
+	ApiUrl      string `json:"apiUrl"`
+	UserId      string `json:"userId"`
+	AccessKeyId string `json:"accessKeyId"`
+	AccessKey   string `json:"accessKey"`
+}
+
 type AccessConfigForHuaweiCloud struct {
 	AccessKeyId     string `json:"accessKeyId"`
 	SecretAccessKey string `json:"secretAccessKey"`

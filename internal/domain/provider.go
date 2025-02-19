@@ -32,7 +32,7 @@ const (
 	AccessProviderTypeGname        = AccessProviderType("gname")
 	AccessProviderTypeGcore        = AccessProviderType("gcore")
 	AccessProviderTypeGoDaddy      = AccessProviderType("godaddy")
-	AccessProviderTypeGoEdge       = AccessProviderType("goedge") // GoEdge（预留）
+	AccessProviderTypeGoEdge       = AccessProviderType("goedge")
 	AccessProviderTypeHuaweiCloud  = AccessProviderType("huaweicloud")
 	AccessProviderTypeJDCloud      = AccessProviderType("jdcloud") // 京东云（预留）
 	AccessProviderTypeKubernetes   = AccessProviderType("k8s")
@@ -121,6 +121,7 @@ const (
 	DeployProviderTypeDogeCloudCDN          = DeployProviderType("dogecloud-cdn")
 	DeployProviderTypeEdgioApplications     = DeployProviderType("edgio-applications")
 	DeployProviderTypeGcoreCDN              = DeployProviderType("gcore-cdn")
+	DeployProviderTypeGoEdge                = DeployProviderType("goedge")
 	DeployProviderTypeHuaweiCloudCDN        = DeployProviderType("huaweicloud-cdn")
 	DeployProviderTypeHuaweiCloudELB        = DeployProviderType("huaweicloud-elb")
 	DeployProviderTypeHuaweiCloudWAF        = DeployProviderType("huaweicloud-waf")

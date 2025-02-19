@@ -140,6 +140,7 @@ The following hosting providers are supported:
 | [Cdnfly](https://www.cdnfly.cn/)                | Supports deployment to Cdnfly CDN                                                |
 | [Edgio](https://edg.io/)                        | Supports deployment to Edgio Applications                                        |
 | [Gcore](https://gcore.com/)                     | Supports deployment to Gcore CDN                                                 |
+| [GoEdge](https://goedge.cloud/)                 | Supports deployment to GoEdge CDN                                                |
 
 </details>
 

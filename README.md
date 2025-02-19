@@ -141,6 +141,7 @@ make local.run
 | [Cdnfly](https://www.cdnfly.cn/)        | 可部署到 Cdnfly CDN                                                      |
 | [Edgio](https://edg.io/)                | 可部署到 Edgio Applications                                              |
 | [Gcore](https://gcore.com/)             | 可部署到 Gcore CDN                                                       |
+| [GoEdge](https://goedge.cloud/)         | 可部署到 GoEdge CDN                                                      |
 
 </details>
 
